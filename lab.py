@@ -17,4 +17,8 @@ def divison (a,b):
 def exponenciacion (a,b):
     '''exponenciacion'''
     return a**b
+
+def raices (a,b):
+    '''raiz de valor'''
+    return a/b
     
