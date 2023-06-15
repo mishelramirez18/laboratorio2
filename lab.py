@@ -6,4 +6,10 @@ def resta (a,b):
 '''resta'''
 return a-b
 
+def multiplicacion (a,b):
+    '''multiplicaion valores'''
+    return a*b
 
+def divison (a,b):
+    '''divison valores'''
+    return a/b
