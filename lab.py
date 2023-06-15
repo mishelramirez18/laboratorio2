@@ -4,4 +4,6 @@ resultado= a+b
 
 def resta (a,b):
 '''resta'''
-resultado = a-b
+return a-b
+
+
