@@ -13,3 +13,8 @@ def multiplicacion (a,b):
 def divison (a,b):
     '''divison valores'''
     return a/b
+
+def exponenciacion (a,b):
+    '''exponenciacion'''
+    return a**b
+    
