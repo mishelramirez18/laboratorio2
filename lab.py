@@ -20,5 +20,20 @@ def exponenciacion (a,b):
 
 def raices (a,b):
     '''raiz de valor'''
-    return a/b
-    
+    import math
+    return(math.sqrt(a))
+
+def run ():
+    pass
+    if_name_=='_main_'
+
+    def sum5 ():
+        suma =0
+    form i in range (0,5):
+        h=int(input("ingrese su numero"))
+        suma=suma + h
+        suma5
+
+
+
+
