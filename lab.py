@@ -37,6 +37,13 @@ def run ():
         '''procentaje de valor'''
         returna a%b
 
+       def quetzal_a_dolar (a):
+        '''convierte a dolar'''
+        return a / 7.84 
+
+     def dolar_a_quetzal (a):
+        '''convierte a quetzal'''
+        return a* 7.84
 
     def run ():
         pass
