@@ -32,7 +32,18 @@ def run ():
     form i in range (0,5):
         h=int(input("ingrese su numero"))
         suma=suma + h
-        suma5
+    suma5()
+    def exponenciacion (a,b):
+        '''procentaje de valor'''
+        returna a%b
+
+
+    def run ():
+        pass
+
+if__name__=='_main':
+    run 
+    
 
 
 
